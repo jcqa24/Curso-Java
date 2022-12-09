@@ -68,7 +68,7 @@ Puedes encontrar la lista de videos completa [aquí](https://youtube.com/playlis
 
 31. Comparable y CompareTo | [Vídeo](https://www.youtube.com/watch?v=xkQY5_zfSmI&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=31) | [Código]()
 
-32. Tipos de datos Genéricos | [Vídeo](https://www.youtube.com/watch?v=j1_jtDp5gJg&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=32) | [Código]()
+32. Tipos de datos Genéricos | [Vídeo](https://www.youtube.com/watch?v=j1_jtDp5gJg&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=32) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/32%20-%20TiposGenericos)
 
 33. Equals | [Vídeo](https://www.youtube.com/watch?v=xhZ1xZ8O86o&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=33) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/33%20-%20Equals)
 
@@ -128,14 +128,18 @@ Puedes encontrar la lista de videos completa [aquí](https://youtube.com/playlis
 
 61. JSlider Eclipse | [Vídeo](https://www.youtube.com/watch?v=6nTmKAA6D8g&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=61) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/61%20-%20EclipseSlider)
 
-62. JSpiner NetBeans | [Vídeo](https://www.youtube.com/watch?v=9nta5QP5uCI&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=62) | [Código]()
+62. JSpiner NetBeans | [Vídeo](https://www.youtube.com/watch?v=9nta5QP5uCI&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=62) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/62%20-%20spinnerNetBeans)
 
-63. JSpiner Eclipse | [Vídeo](https://www.youtube.com/watch?v=gWuZnnvOFoU&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=63) | [Código]()
+63. JSpiner Eclipse | [Vídeo](https://www.youtube.com/watch?v=gWuZnnvOFoU&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=63) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/63%20-%20SpinerEclipse)
 
-64. JFormattedTextField NetBeans | [Vídeo](https://www.youtube.com/watch?v=TEb3dfN_VCI&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=64) | [Código]()
+64. JFormattedTextField NetBeans | [Vídeo](https://www.youtube.com/watch?v=TEb3dfN_VCI&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=64) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/64%20-%20JtextFormartNetBeans)
 
-65. JFormattedTextField Eclipse | [Vídeo](https://www.youtube.com/watch?v=qcGJvzdnc5M&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=65) | [Código]()
+65. JFormattedTextField Eclipse | [Vídeo](https://www.youtube.com/watch?v=qcGJvzdnc5M&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=65) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/65%20-%20JFormattedTextFieldEclipse)
 
-66. JTable NetBeans | [Vídeo](https://www.youtube.com/watch?v=HHE_etiBkds&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=66) | [Código]()
+66. JTable NetBeans | [Vídeo](https://www.youtube.com/watch?v=HHE_etiBkds&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=66) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/66%20-%20TablasNetBeans)
 
-67. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=RpEUUo88zu4&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=67) | [Código]()
+67. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=RpEUUo88zu4&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=67) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/67%20-%20TablasEclipse)
+
+68. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=sL1s4YyONSg&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/68%20-%20ProgresBarNetBeans)
+
+69. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=kmcShp9sHm0&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/69%20-%20ProgressBarEclipse)
