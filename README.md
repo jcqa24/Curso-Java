@@ -140,6 +140,6 @@ Puedes encontrar la lista de videos completa [aquí](https://youtube.com/playlis
 
 67. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=RpEUUo88zu4&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=67) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/67%20-%20TablasEclipse)
 
-68. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=sL1s4YyONSg&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/68%20-%20ProgresBarNetBeans)
+68. JProgressBar NetBeans | [Vídeo](https://www.youtube.com/watch?v=sL1s4YyONSg&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/68%20-%20ProgresBarNetBeans)
 
-69. JTable Eclipse | [Vídeo](https://www.youtube.com/watch?v=kmcShp9sHm0&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/69%20-%20ProgressBarEclipse)
+69. JProgressBar Eclipse | [Vídeo](https://www.youtube.com/watch?v=kmcShp9sHm0&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/69%20-%20ProgressBarEclipse)
