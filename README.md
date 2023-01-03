@@ -143,3 +143,11 @@ Puedes encontrar la lista de videos completa [aquí](https://youtube.com/playlis
 68. JProgressBar NetBeans | [Vídeo](https://www.youtube.com/watch?v=sL1s4YyONSg&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/68%20-%20ProgresBarNetBeans)
 
 69. JProgressBar Eclipse | [Vídeo](https://www.youtube.com/watch?v=kmcShp9sHm0&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=69) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/69%20-%20ProgressBarEclipse)
+
+70. FileChooser NetBeans | [Vídeo](https://www.youtube.com/watch?v=Q9p38yMuHY8&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=70) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/70%20-%20FileChooserNetBeans)
+
+71. FileChooser Eclipse | [Vídeo](https://www.youtube.com/watch?v=Wno7Nvl_e58&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=71) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/71%20-%20FileChosser%20Eclipse)
+
+72. Tree NetBeans | [Vídeo](https://www.youtube.com/watch?v=bnxvtFgBJns&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=72) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/72%20-%20TreeNetBeans)
+
+73. Tree Eclipse | [Vídeo](https://www.youtube.com/watch?v=pTz-pwKzdwo&list=PLM4HZoZrNapu9XbnNJ1w9T6sLqvph8_Wg&index=73) | [Código](https://github.com/jcqa24/Curso-Java/tree/master/73%20-%20Tree%20Eclipse)
